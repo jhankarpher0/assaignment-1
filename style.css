@@ -36,7 +36,7 @@ section {
     border-radius: 40%;
 }
 
-p {
+.sefoda {
     margin-bottom: 15%;
 }
 
@@ -63,4 +63,52 @@ p {
 .middle-part {
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
+}
+
+.recipies {
+    text-align: center;
+}
+
+.recipie-1 {
+    margin: 3%;
+    border: 10px solid;
+    border-color: ghostwhite;
+    border-radius: 10%;
+
+}
+
+.recipie-1 img {
+    width: 100%;
+}
+
+.recipie-2 {
+    margin: 3%;
+    border: 10px solid;
+    border-color: ghostwhite;
+    border-radius: 10%;
+
+
+}
+
+.recipie-2 img {
+    width: 100%;
+}
+
+.recipie-3 {
+    margin: 3%;
+    border: 10px solid;
+    border-color: ghostwhite;
+    border-radius: 10%;
+
+}
+
+.recipie-3 img {
+    width: 100%;
+}
+
+.footer {
+    text-align: center;
+    background-color: cadetblue;
+    height: 200px;
+    color: white;
 }
