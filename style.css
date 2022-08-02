@@ -16,24 +16,28 @@ h1 {
 
 section {
     display: flex;
+    margin: 30px;
 }
 
-.group-img {
-    width: 80%;
-    margin-left: 2%;
 
-}
 
 .first-head {
-    margin-top: 23%;
+    margin-top: 5%;
     margin-left: 3%;
+}
+
+.first-head img {
+    width: 100%;
+    margin-right: 20%;
 }
 
 .link-button {
     text-decoration: none;
+    font-weight: 800;
     background-image: linear-gradient(orange, tomato);
+    color: white;
     padding: 15px 30px;
-    border-radius: 40%;
+    border-radius: 40px;
 }
 
 .sefoda {
@@ -57,7 +61,7 @@ section {
     padding: 10px 30px;
     font-weight: 700;
     color: white;
-    border-radius: 30%;
+    border-radius: 30px;
 }
 
 .middle-part {
@@ -111,4 +115,9 @@ section {
     background-color: cadetblue;
     height: 200px;
     color: white;
+}
+
+#maria {
+    margin-top: 130px;
+    margin-left: 100px;
 }
